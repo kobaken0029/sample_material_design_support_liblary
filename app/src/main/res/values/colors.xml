@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app -->
+    <color name="main_color">#00C0D8</color>
+    <color name="sub_color">#FFC107</color>
+
+    <!-- text -->
+    <color name="text">#424242</color>
+    <color name="sub_text">#808080</color>
+    <color name="navigation_drawer_header_sub_text">#D9FFFFFF</color>
+
+    <!-- other -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_not_selected">#AAFFFFFF</color>
+</resources>

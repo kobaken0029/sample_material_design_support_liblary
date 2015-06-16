@@ -1,0 +1,22 @@
+<resources>
+    <!-- アプリ名 -->
+    <string name="app_name">MaterialDesign</string>
+
+    <!-- メイン画面 -->
+    <string name="hello_world">マテリアルデザイン サポートライブラリ テスト</string>
+    <string name="hint_name">名前</string>
+    <string name="hint_email">メールアドレス</string>
+    <string name="push_fab_message">Floating Action Buttonがタップされました</string>
+
+    <!-- タブレイアウト画面 -->
+    <string name="title_activity_tab_layout">TabLayoutActivity</string>
+
+    <!-- エラーメッセージ -->
+    <string name="error_message">入力項目に誤りがあります</string>
+
+    <!-- NavigationDrawer Menu -->
+    <string name="navigation_text_1">メニュー１</string>
+    <string name="navigation_text_2">メニュー２</string>
+    <string name="navigation_text_3">メニュー３</string>
+    <string name="navigation_text_move_tab_layout_activity">タブページヘ</string>
+</resources>
